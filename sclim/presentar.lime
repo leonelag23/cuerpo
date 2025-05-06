@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.3">
+    <config>
+          <recursos>$C:\Users\ESTUDIANTE\Downloads\edilim563win32\edilim563\tpl\sclim\</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+          <corfondo>FDF7FD</corfondo>
+        <corbanda>E77CE7</corbanda>
+        <cornavega>F5C9F5</cornavega>
+        <cormensaxes>000000</cormensaxes>
+          <cortexto>000000</cortexto>
+          <titulo>Las partes del cuerpo humano</titulo>
+          <subtitulo>partes de cabeza y extremidades</subtitulo>
+          <autor>Leonela García - Zaray Machuca</autor>
+          <informe>0</informe>
+          <botonson>0</botonson>
+          <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="\" modo="1" >CORRECTO</correcto>
+        <incorrecto son="\" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">..\sclim\Presentacion 1.png</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="-25">..\sclim\cabeza partes.png</imaxe>
+        </paxina>
+        <paxina id="3" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">..\sclim\cabeza partes 1.png</imaxe>
+        </paxina>
+        <paxina id="4" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">..\sclim\cabeza partes 2.png</imaxe>
+        </paxina>
+        <paxina id="5" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">..\sclim\extremidades partes.png</imaxe>
+        </paxina>
+        <paxina id="6" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">..\sclim\extremidades partes 1.png</imaxe>
+        </paxina>
+        <paxina id="7" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">..\sclim\actividades.png</imaxe>
+        </paxina>
+        <paxina id="8" >
+              <tipo>17</tipo>
+              <parellas>..\sclim\boca.png</parellas>
+              <parellas>..\sclim\cejas1.png</parellas>
+              <parellas>..\sclim\cabello.png</parellas>
+              <parellas>..\sclim\ojos.png</parellas>
+              <parellas>..\sclim\nariz.png</parellas>
+              <parellas>..\sclim\oreja.png</parellas>
+              <cfondo>F1F0BE</cfondo>
+              <ctapa>000000</ctapa>
+              <tempo>60</tempo>
+        </paxina>
+        <paxina id="9" >
+              <tipo>3</tipo>
+              <imaxe>..\sclim\cuerpo niño.png</imaxe>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="10" >
+              <tipo>4</tipo>
+              <modo>2</modo>
+              <sopa enun="..\sclim\cabello.png">cabello</sopa>
+              <sopa enun="..\sclim\cabeza.png">cabeza</sopa>
+              <sopa enun="..\sclim\codo.png">codo</sopa>
+              <sopa enun="..\sclim\cuello.png">cuello</sopa>
+              <sopa enun="..\sclim\hombro.png">hombro</sopa>
+              <sopa enun="..\sclim\caderas.png">cadera</sopa>
+              <sopa enun="..\sclim\rodilla.png">rodilla</sopa>
+              <sopa enun="..\sclim\pies.png">pie</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="11" >
+              <tipo>20</tipo>
+              <imaxe>..\sclim\cuerpo niño.png</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="95" posy="11">cabello</etiqueta>
+              <etiqueta posx="123" posy="69">cabeza</etiqueta>
+              <etiqueta posx="127" posy="121">cuello</etiqueta>
+              <etiqueta posx="171" posy="149">brazo</etiqueta>
+              <etiqueta posx="128" posy="181">cadera</etiqueta>
+              <etiqueta posx="162" posy="251">pie</etiqueta>
+        </paxina>
+    </libro>
+</lim>
